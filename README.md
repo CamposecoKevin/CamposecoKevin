@@ -1,5 +1,8 @@
-### Hi there 👋
+# Hi! Welcome to my repository
 
+## learning R language, for machine learning
+
+> perservarance is the answer
 <!--
 **CamposecoKevin/CamposecoKevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
