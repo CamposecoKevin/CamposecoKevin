@@ -2,7 +2,7 @@
 
 ## learning R language, for machine learning
 
-> perservarance is the answer
+> perservarance is the answer, those who have swirl (), will understand me.
 <!--
 **CamposecoKevin/CamposecoKevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
