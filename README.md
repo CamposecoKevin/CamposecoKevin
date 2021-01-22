@@ -13,7 +13,8 @@
 - 🔭 I am currently working in PROINNOVA
 - 🌱 I am currently learning the world of data science
 - 💬 Ask me about accounting, auditing and Finance and Data Science.
-- 📫 How to contact me [Kevin Telegram] [https://t.me/CamposecoKevin]
+- 📫 How to contact me 
+[webside]: [https://t.me/CamposecoKevin]
 
 
 
