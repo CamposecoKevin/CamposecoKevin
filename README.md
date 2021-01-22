@@ -1,5 +1,5 @@
 ### ✨ Hi! Welcome to my repository
-### visit my page [Kevin Camposeco][webside] 
+### visit my page [Kevin Camposeco][webside] Developing
 
 ### I learn the R programming language, to be a data science 🤔
 
@@ -19,3 +19,4 @@
 
 [webside]: https://kevincamposeco.com/
 
+[<img src="https://vercel.com/camposecokevin/spoty-now-playin/r11i0s7pc" alt = "Kevin Spotify playing" width = "350"/>]()
