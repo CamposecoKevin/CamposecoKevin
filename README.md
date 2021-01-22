@@ -19,4 +19,3 @@
 
 [webside]: https://kevincamposeco.com/
 
-[<img src="https://vercel.com/camposecokevin/spoty-now-playin/r11i0s7pc" alt = "Kevin Spotify playing" width = "350"/>]()
