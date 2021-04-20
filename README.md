@@ -5,7 +5,7 @@
 
 > 🌱 perservarance is the answer, those who have swirl (), will understand me.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/jc_montejo?label=Kevin%20Camposeco&logo=twitter&style=for-the-badge)](https://twitter.com/JC_Montejo)
+[![Twitter Follow](https://img.shields.io/twitter/follow/camposecokevin?style=social)](https://twitter.com/camposecokevin)
 
 
 ---
