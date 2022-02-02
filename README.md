@@ -9,7 +9,7 @@
 
 
 ---
-##More information about me
+More information about me:
 - 🔭 I am currently working in PROINNOVA
 - 🌱 I am currently learning the world of data science
 - 💬 Ask me about accounting, auditing and Finance and Data Science.
